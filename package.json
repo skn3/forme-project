@@ -1,0 +1,17 @@
+{
+  "name": "forme-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "forme": "^2.5.0",
+    "morgan": "^1.8.2",
+    "node-sass-middleware": "^0.11.0",
+    "pug": "^2.0.0-rc.2"
+  }
+}
